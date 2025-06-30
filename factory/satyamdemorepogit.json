@@ -1,0 +1,9 @@
+{
+	"name": "satyamdemorepogit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3c8db02-9d24-4723-97dd-0326ee9381e4",
+		"tenantId": "3934f1b2-cdb9-47c9-ba21-15cd722b3aa2"
+	}
+}
